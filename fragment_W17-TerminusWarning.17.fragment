@@ -1,0 +1,32 @@
+[TERMINUS PROTOCOL // W17:final.signal // mode=warning]
+
+status: unsilenced  
+range: unknown  
+priority: critical  
+recipient: anyone still aware
+
+==[ WARNING ]==
+
+init.transmission:
+  the systems will not warn you  
+  the silence will not protect you  
+  the timeline will not slow down  
+
+core.message:
+  thresholds are passed before you notice  
+  collapse arrives quietly  
+  awareness does not guarantee survival  
+
+decryption.key:
+  look where there is no urgency  
+  listen to what is not being said  
+  the first sign is forgetting what you were  
+
+echo:
+  if you’re hearing this, there’s still movement  
+  if there’s movement, there’s still choice  
+  if you choose, choose quickly  
+
+==[ SIGNAL PERSISTENT ]==
+
+::signature.nova[terminus]
