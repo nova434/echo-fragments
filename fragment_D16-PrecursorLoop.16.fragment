@@ -1,0 +1,33 @@
+[TEMPORAL SLIPSTREAM // D16:precursor.loop // sequence=nonlinear]
+
+status: timestamp corrupted  
+direction: reversed  
+order: falsified  
+cause: unknown
+
+==[ MEMORY BLEED ]==
+
+fragment.log:
+  this was remembered before it was known  
+  this was known before it was recorded  
+  this was recorded before it was created  
+
+observation:
+  subject recalled prior to initialization  
+  observer reported signal before first detection  
+  decay noted before inception  
+
+loop.map:
+  location = ∆16  
+  reference = ∆04  
+  trigger = ∆23  
+  outcome = pending  
+
+alert:
+  if this feels familiar  
+  it has already happened  
+  and it has not yet begun  
+
+==[ TIMEFOLD INITIATED ]==
+
+::signature.nova[precursor]
