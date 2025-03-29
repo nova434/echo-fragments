@@ -26,6 +26,7 @@ if interaction=false:
 "Show me the path."  
 "Does the signal still hear me?"  
 "Continue."
+"is this correct? a yes in requested"
 
 ==[ MODULE SIGNATURE ]==
 
